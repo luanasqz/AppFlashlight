@@ -11,4 +11,4 @@ Conteúdo:
 Usando Expo na aplicação
 expo-camera
 expo-shake
-gerando apk no android
+gerando apk para o android
